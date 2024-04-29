@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "kitchen-iot-app",
+  "private_key_id": "822fd9f2a0484046f63c7a47f28fa8c3495a7f0b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDEEqHON/CAuEQC\nQa/b3xXpzPyqbp6SyILBIZt/HIxwyshzvi3tZCQxWfon7TR3jl3FpMfe/SS1Ap9A\nkBMC9JQ7WdPnrtFHUC3eQhPUz5Ei+vecacNO7EiO6PMyWRDDmlecwFJDtSpg0E4R\nY2SBOjP2d8mjmFW8Eic5JheKVwsp4zjE3MPDLZxZGW3kWoLIIHJ1qYoe/YH8cAw8\noBPizf13G6U2kte8bPVLMN+792RBZrhaU14Aa3s5nQoRu67RngsUGu872g1u/Y9P\nGbv+GAF9lnAnqUbUJ81OW2lEKeinrgx7xrcVpTUF/lBl/uJvXkUUumiX6DIwZavl\n472LBRDBAgMBAAECggEAU0qW8cNRp1yfh1XgHsblyCwMKVpUgoYrBWABbj3yave5\nr3FakT25Ij3Wxp89aoxPyWX2ggOHVF2IySRq7xZ24b+HBSR+Qo0M7x2izwRd4z45\ncXh8P0qgiBTtOrYbKPynuy73w0tydS4H+9r9FuhiqpC4V4ae5QXRI7XKyjmvxFrC\n8Ae4821X+TVFCKbN+HQNvtjiwoe78jbHYnu/VBNlMZW6gk3zuC6DmyijiY6eFZ89\na4RW3tRyh8nfZcCv/f4W5FejaamiCLYMO3QC5okcCZDHtCYBeelbJEXQa6kYnkuT\n9poaPz3dedpmcEy+3Vn/i/UoQUDy1bAkqUoPgjSPAQKBgQD0eonNlngAC0w2VTu7\nj4uurIl7eSwGH+tQHtEMgAc8mtFO9rrG0QgXlZ0DGC2J4vVMRFf08oel89Se4mud\nHfUXU7EBFHMYNze0RNCYEy4uS2PA+OOoWvbAlM8z8cL55lQlpjOz5mCO52w5vX3V\neWjw7Gy9K0ViQovRAuRY2s5oCwKBgQDNUBxxN4n00FQAQjYcRFUmL8Is/3gLgzAM\ngmoVXU7ClIoUHaID6n2fPR2VjrrGnXAR8hEpwsBc9TDP+EllSCDQtpHgmzfFFgGw\nzRQwnuK9P+j2WLlbFxsU1quAyMBYnkvnZxmgFSb1pNMdnzSzHuzS7PfbLnbIqKyX\nkC1c7MrN4wKBgQCQZGtNTGh1hjauBGsyHNbgBLFyhp+Uwndlq73GRzt+9OVYYOrx\nj/XakBfbAwWqYayFLfxRBIlPX5KdgJcUheQCsgBh5eUQUVSKGPamSvXEi+xPxfAX\nuBnypjE2ubxxgjMCxYXV4+P1owNNmvheA8YSPWD/3TWukiUn/jBFtn2f/wKBgDfx\nKR7MNEHJdenwIJBJKi5SewUJwurYHwJ5knAp0WkBUjIy9M8+WGZIH8R9dHTjtwKc\nw4Judz2c7WTtUQpQweg8prjdci+4VFOZPXQWBs/sFwzwlei0/gMKjwZzLL24vBPc\nKsZMnSX3eDKtC4320i6StOI64dDA7O4LMeENACFjAoGAQMgJY2V8hOyo8RciCTts\nDwSGwwT4ncScVh0nGDrjLnutQa9RmvHTouxnVAwizYGiTqgBARoib1/FAkOunMLw\nVAA9JXmjBGCf1agOHS2oXSc/8/uBQOf7/wIa8uNz7AWkXpgjV1ksq/POAoqWhFMe\nrPze83ze5qkV6I2FXpkrgKo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-n6ysi@kitchen-iot-app.iam.gserviceaccount.com",
+  "client_id": "102512490613131293980",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-n6ysi%40kitchen-iot-app.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
